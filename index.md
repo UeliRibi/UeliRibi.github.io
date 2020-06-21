@@ -1,1 +1,1 @@
-A website for my favourite character is currently being built here!
+# Let's Git Homework - About the movie "The Sting"
