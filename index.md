@@ -8,3 +8,8 @@ The film takes place in 1936, in the waning years of the Great Depression.
 * Soundtrack: The Entertainer
 * Seven Oscars
 * Plays during the Great Depression in Chicago. 
+
+
+ Henry Gondorff said:
+ 
+> Sorry I'm late guys, I was taking a crap.
