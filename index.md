@@ -2,3 +2,9 @@
 
 A famous caper film with Paul Newman and Robert Redford.
 The film takes place in 1936, in the waning years of the Great Depression.
+
+## Key words
+
+* Soundtrack: The Entertainer
+* Seven Oscars
+* Plays during the Great Depression in Chicago. 
