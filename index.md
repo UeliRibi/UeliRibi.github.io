@@ -15,4 +15,4 @@ The film takes place in 1936, in the waning years of the Great Depression.
 > Sorry I'm late guys, I was taking a crap.
 
 
-<img src="https://en.wikipedia.org/wiki/The_Sting#/media/File:The_Sting_(1973_alt_poster).jpeg" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/The_Sting_%281973_alt_poster%29.jpeg/800px-The_Sting_%281973_alt_poster%29.jpeg" />
